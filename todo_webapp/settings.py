@@ -25,7 +25,7 @@ SECRET_KEY = '%=$h62coe(2%hqmrq)z)92*gei(-eo0a)l1vr)x9v2f1zio#$j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['todo-awesome-app.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['mytodo-webapp.herokuapp.com','127.0.0.1']
 
 
 # Application definition
