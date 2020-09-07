@@ -1,7 +1,8 @@
 ### TO-DO web app using Django
 
 #### View deployed app
-> https://todo-awesome-app.herokuapp.com/
+
+> [link to webapp!](https://mytodo-webapp.herokuapp.com/)
 
 #### To run locally
 > python manage.py runserver
