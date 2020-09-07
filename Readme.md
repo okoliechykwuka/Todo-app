@@ -2,7 +2,7 @@
 
 #### View deployed app
 
-> [link to webapp!](https://mytodo-webapp.herokuapp.com/)
+> [link to webapp](https://mytodo-webapp.herokuapp.com/)
 
 #### To run locally
 > python manage.py runserver
